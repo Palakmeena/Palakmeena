@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring Boot, ReactJs**
 
-- 💬 Ask me about **Java, JavaScript**
+- 💬 Ask me about **Java, JavaScript, DSA**
 
 - 📫 How to reach me **palakmeena14@gmail.com**
 
