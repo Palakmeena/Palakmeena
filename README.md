@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Palak Meena</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" width="400"   src="https://img.freepik.com/premium-vector/web-designer-programmer-working-desktop-computer-cartoon-woman-coding-different-programming-languages_102902-7000.jpg" alt="Coding">
 
 
-- 🔭 I’m currently working on **Instagram Clone**
+
 
 - 🌱 I’m currently learning **Spring Boot, ReactJs**
 
