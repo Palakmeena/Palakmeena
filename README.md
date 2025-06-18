@@ -27,7 +27,7 @@
   <a href="mailto:palakmeena14@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40"/>
   </a>
-  <a href="https://x.com/Palak_Meena1" target="_blank">
+  <a href="https://x.com/Palak_Meena14" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" width="40" height="40"/>
   </a>
 </p>
