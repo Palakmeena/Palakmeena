@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
-<h3 align="center">🚀 A passionate developer from Your Country</h3>
+<h1 align="center">Hi 👋, I'm Palak</h1>
+<h3 align="center"> A passionate developer from India</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Java+%7C+Spring+Boot+%7C+React+Dev;Passionate+about+building+cool+projects;Always+learning+something+new" alt="Typing SVG" />
@@ -20,9 +20,15 @@
 ### 🔗 Connect with me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/your-profile/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="mailto:your-email@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="gmail" height="30" width="40" /></a>
-<a href="https://twitter.com/your-twitter" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" alt="twitter" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/your-profile/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://twitter.com/your-twitter" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
 </p>
 
 ---
@@ -46,8 +52,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Palakmeena&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=Palakmeena&theme=radical" alt="GitHub Streak" />
 </p>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Palakmeena&theme=tokyonight" />
@@ -62,6 +69,14 @@
 - 🔗 [**Project 3**](https://github.com/your-username/project3): Description
 
 ---
+
+
+### 🗓️ GitHub Contribution Calendar
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night" alt="Contribution Graph" />
+</p>
+
 
 ### 🧠 Fun Quotes (Optional)
 
