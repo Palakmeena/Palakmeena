@@ -10,9 +10,9 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on: `Upskillr – a full-stack platform to help students become industry-ready`
-- 🌱 I’m currently learning: `Spring Boot`,`Data Structures & Algorithms`,`System Design`
-- 💬 Ask me about: `Java`, `React.js`, `Cloud`, `Open Source`
+- 🔭 I’m currently working on: Upskillr – a full-stack platform to help students become industry-ready
+- 🌱 I’m currently learning: Spring Boot, Data Structures & Algorithms, System Design
+- 💬 Ask me about: Java, React.js, Cloud, Open Source
 - 👯 I’m looking to collaborate on: meaningful open source projects that solve real-world problems
 - 🧠 Always exploring: new tools, frameworks, and ways to build better software
 
