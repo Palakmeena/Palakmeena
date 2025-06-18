@@ -67,11 +67,6 @@
 ---
 
 
-### 🗓️ GitHub Contribution Calendar
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Palakmeena&theme=tokyo-night" alt="Contribution Graph" />
-</p>
 
 
 ### ⚡ Fun Fact
