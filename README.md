@@ -9,10 +9,11 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on: `Your Project Name`
-- 🌱 I’m currently learning: `Tech you're learning like Spring Boot / DSA`
-- 💬 Ask me about: `Java`, `React`, `Cloud`, `Open Source`
-- 👯 I’m looking to collaborate on: Open Source and impactful projects
+- 🔭 I’m currently working on: `Upskillr – a full-stack platform to help students become industry-ready`
+- 🌱 I’m currently learning: `Spring Boot`,`Data Structures & Algorithms`,`System Design`
+- 💬 Ask me about: `Java`, `React.js`, `Cloud`, `Open Source`
+- 👯 I’m looking to collaborate on: meaningful open source projects that solve real-world problems
+- 🧠 Always exploring: new tools, frameworks, and ways to build better software
 - ⚡ Fun fact: I love tea, tech memes, and late-night coding 💻
 
 ---
@@ -20,13 +21,13 @@
 ### 🔗 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-profile/" target="_blank">
+  <a href="https://www.linkedin.com/in/palak-meena-b01104245" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:palakmeena14@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40"/>
   </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
+  <a href="https://x.com/Palak_Meena1" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" width="40" height="40"/>
   </a>
 </p>
@@ -78,10 +79,10 @@
 </p>
 
 
-### 🧠 Fun Quotes (Optional)
+### ⚡ Fun Fact
 
-> “First, solve the problem. Then, write the code.” – John Johnson  
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> I commit to learning more than I commit code.  
+> Dark mode is my love language.
 
 ---
 
