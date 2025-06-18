@@ -75,8 +75,8 @@
 
 ### ⚡ Fun Fact
 
-> I commit to learning more than I commit code.  
-> Dark mode is my love language.
+> -> I commit to learning more than I commit code.  
+> -> Dark mode is my love language.
 
 ---
 
