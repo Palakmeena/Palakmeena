@@ -2,7 +2,7 @@
 <h3 align="center"> CS Student | Software Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+;Writing+code+like+poetry;Java+%7C+Spring+Boot+%7C+React;Always+learning+something+new+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+;Java+%7C+Spring+Boot+%7C+React;Always+learning+something+new+" alt="Typing SVG" />
 </p>
 
 
