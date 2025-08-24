@@ -11,7 +11,7 @@
 ### 🧑‍💻 About Me
 
 
-- 🌱 I’m currently Involved in: System Design, Cloud, AI/ML
+- 🌱 I’m currently involve in: System Design, Cloud, AI/ML
 - 💬 Ask me about: Java, React.js, Spring Boot, Data Structures & Algorithms
 - 👯 I’m looking to collaborate on: meaningful open source projects that solve real-world problems
 - 🧠 Always exploring: new tools, frameworks, and ways to build better software
