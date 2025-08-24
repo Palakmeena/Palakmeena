@@ -10,9 +10,9 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on: Upskillr – a full-stack platform to help students become industry-ready
-- 🌱 I’m currently learning: Spring Boot, Data Structures & Algorithms, System Design
-- 💬 Ask me about: Java, React.js, Cloud, Open Source
+
+- 🌱 I’m currently Involved in: System Design, Cloud, AI/ML
+- 💬 Ask me about: Java, React.js, Spring Boot, Data Structures & Algorithms
 - 👯 I’m looking to collaborate on: meaningful open source projects that solve real-world problems
 - 🧠 Always exploring: new tools, frameworks, and ways to build better software
 
@@ -28,9 +28,7 @@
   <a href="mailto:palakmeena14@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40"/>
   </a>
-  <a href="https://x.com/Palak_Meena14" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" width="40" height="40"/>
-  </a>
+
 </p>
 
 ---
